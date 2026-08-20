@@ -1,85 +1,91 @@
+# 👋 Hi, I'm Denish Patel  
+### Senior Frontend Developer | Full Stack Engineer | Freelancer  
 
-# 👋 Hi, I'm Pranjali R. Pongde  
-### Frontend Developer | React.js Developer | Freelancer  
+I build high-performance, enterprise-grade web applications with **6.6+ years of experience**. My primary focus is **Angular (7–15), React.js, Node.js/Express, TypeScript, and AI Tool Integration**.  
+I specialize in **scalable UI architecture, real-time data visualisations, cutting-edge algorithm optimization, and seamless API integrations**.
 
-I build clean, modern, and high-performing web interfaces using **React.js, Next.js, JavaScript (ES6+), TypeScript, and Tailwind CSS**.  
-My work focuses on **pixel-perfect UI, smooth UX, high performance, and scalable code architecture**.
-
-I help businesses, startups, creators, and individuals turn ideas into functional, user-friendly digital experiences.
+I assist businesses, enterprises, and startups in building robust, performant digital solutions from scratch or modernizing legacy frontend systems.
 
 ---
 
 # 🚀 Tech Stack & Tools  
 
-## 🖥️ **Frontend Technologies**
+## 🖥️ **Frontend & UI Frameworks**
 <p align="left">
+  <img src="https://img.icons8.com/color/48/angularjs.png" width="45" title="Angular" />
   <img src="https://img.icons8.com/color/48/react-native.png" width="45" title="React.js" />
-  <img src="https://img.icons8.com/fluency/48/nextjs.png" width="45" title="Next.js" />
   <img src="https://img.icons8.com/color/48/typescript.png" width="45" title="TypeScript" />
-  <img src="https://img.icons8.com/color/48/javascript.png" width="45" title="JavaScript (ES6+)" />
+  <img src="https://img.icons8.com/color/48/javascript.png" width="45" title="JavaScript" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" width="45" title="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/redux.png" width="45" title="Redux" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="45" title="Bootstrap" />
   <img src="https://img.icons8.com/color/48/html-5.png" width="45" title="HTML5" />
   <img src="https://img.icons8.com/color/48/css3.png" width="45" title="CSS3" />
-  <img src="https://img.icons8.com/color/48/sass.png" width="45" title="SASS" />
+  <img src="https://img.icons8.com/color/48/sass.png" width="45" title="SASS/LESS" />
 </p>
 
----
-
-## 🛠️ **Tools & Platforms**
+## ⚙️ **Backend, Database & State Management**
 <p align="left">
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="45" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/express.png" width="45" title="Express.js" />
+  <img src="https://img.icons8.com/color/48/mysql.png" width="45" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" width="45" title="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="45" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/rxjs.png" width="45" title="RxJS" />
+  <img src="https://img.icons8.com/color/48/graphql.png" width="45" title="GraphQL" />
+</p>
+
+## 🛠️ **DevOps, Cloud & AI Tools**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="45" title="AWS" />
+  <img src="https://img.icons8.com/color/48/docker-ios.png" width="45" title="Docker" />
+  <img src="https://img.icons8.com/color/48/kubernetes.png" width="45" title="Kubernetes" />
   <img src="https://img.icons8.com/color/48/git.png" width="45" title="Git" />
   <img src="https://img.icons8.com/material-rounded/48/github.png" width="45" title="GitHub" />
-  <img src="https://img.icons8.com/color/48/vite.png" width="45" title="Vite" />
-  <img src="https://img.icons8.com/color/48/firebase.png" width="45" title="Firebase" />
-  <img src="https://img.icons8.com/ios-filled/48/vercel.png" width="45" title="Vercel" />
-  <img src="https://img.icons8.com/color/48/netlify.png" width="45" title="Netlify" />
-  <img src="https://img.icons8.com/fluency/48/axios.png" width="45" title="Axios" />
+  <img src="https://img.icons8.com/color/48/figma.png" width="45" title="Figma" />
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="45" title="ChatGPT" />
+  <img src="https://img.icons8.com/color/48/github-copilot.png" width="45" title="GitHub Copilot" />
 </p>
 
 ---
 
 ## ⚡ **Core Skills**
-- Responsive UI / Mobile-First Design  
-- API Integration (REST, JSON, CRUD)  
-- Accessibility (A11y)  
-- Performance Optimization (Lighthouse 90+)  
-- Cross-Browser Compatibility  
-- Component Architecture  
-- Clean, scalable code  
+- Enterprise Frontend Architecture (Angular & React)  
+- Full Stack Web App Development (Node.js/Express)  
+- Payment Gateway & API Integrations (Stripe, Razorpay, Mapbox, ZoomSDK)  
+- Complex State Management (RxJS, NgRx)  
+- Real-Time Data Visualization (Ag-Grid, ApexCharts, Chart.js)  
+- Cutting Stock & Industrial Optimization Algorithms  
+- Micro-Frontend & PWA Development  
 
 ---
 
-# 🧩 Freelancing Services  
+# 🧩 Technical & Consulting Services  
 
 I help clients with:
 
-✔️ Business Websites  
-✔️ Landing Pages  
-✔️ Personal Portfolios  
-✔️ React / Next.js Web Apps  
-✔️ UI Redesign & Modernization  
-✔️ Website Speed Optimization  
-✔️ Figma → Frontend Conversion  
-✔️ Website Maintenance & Fixes  
+✔️ Full-Stack & Enterprise Web Applications  
+✔️ Angular / React Frontend Architecture Development  
+✔️ Legacy System Migration (e.g., AngularJS to Angular 15)  
+✔️ Third-Party API Integrations (Payments, Maps, AI SDKs)  
+✔️ Industrial Algorithm Optimization & Cutting Stock Solutions  
+✔️ Custom Dashboard Development & Analytics  
+✔️ Technical Leadership, Code Reviews & Mentorship  
 
 ---
 
-# ✨ Why Work With Me  
+# ✨ Highlighted Projects  
 
-- Clean, maintainable & scalable code  
-- Pixel-perfect and detail-oriented  
-- Fast delivery & smooth communication  
-- Client-first approach  
-- Modern tools + best practices  
+### 🔹 **RebarCut-Pro App** *(React, Vite, TypeScript, Tailwind CSS)*
+- Developed a stock optimization algorithm in TypeScript to minimize material scrap and optimize steel bar utilization across multi-level construction sites.
+- Built visualization components to render real-time cutting pattern breakdowns, waste summaries, and efficiency metrics per bar diameter.
 
 ---
 
 # 📊 GitHub Stats  
 
 <p align="left">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=pranjalipongde&show_icons=true&theme=tokyonight" />
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalipongde&theme=tokyonight" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=denish-patel&show_icons=true&theme=tokyonight" />
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=denish-patel&theme=tokyonight" />
 </p>
 
 ---
@@ -87,17 +93,14 @@ I help clients with:
 # 📫 Connect With Me  
 
 <p align="left">
-  <a href="mailto:pranjalipongde0997@gmail.com">
+  <a href="mailto:denishp83@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="42px" />
   </a>
-  <a href="https://www.linkedin.com/in/pranjali-pongde/">
+  <a href="https://linkedin.com/in/denish-patel">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="42px" />
   </a>
-  <a href="https://github.com/pranjalipongde">
+  <a href="https://github.com/denish-patel">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="42px" />
-  </a>
-  <a href="https://pranjali-pongde.vercel.app">
-    <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/48/external-Portfolio-web-development-parzival-1997-flat-parzival-1997.png" width="42px" />
   </a>
 </p>
 
@@ -106,15 +109,14 @@ I help clients with:
 # 🟦 Hire Me  
 
 <p align="left">
-  <a href="mailto:pranjalipongde0997@gmail.com">
-    <img src="https://img.shields.io/badge/💼_Hire_Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:denishp83@gmail.com">
+    <img src="https://img.shields.io/badge/💼_Hire_Me-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🌱 Currently Working On  
-- Advanced React Patterns  
-- TypeScript Best Practices  
-- UI Architecture & Animations  
-- **DSA (Data Structures & Algorithms)**  
+# 🌱 Currently Focusing On  
+- AI/LLM Integration in Modern Web Applications (Gemini, OpenRouter, RooCode, Ollama)  
+- Cloud-Native Deployment Strategies (Kubernetes, ArgoCD, Helm Charts)  
+- Micro-Frontend Architecture Best Practices
