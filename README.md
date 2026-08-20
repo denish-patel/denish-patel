@@ -30,7 +30,7 @@ I assist businesses, enterprises, and startups in building robust, performant di
   <img src="https://img.icons8.com/color/48/mysql.png" width="45" title="MySQL" />
   <img src="https://img.icons8.com/color/48/postgreesql.png" width="45" title="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/mongodb.png" width="45" title="MongoDB" />
-  <img src="[https://img.icons8.com/color/48/rxjs.png](https://user-images.githubusercontent.com/10064416/53419310-eb4eb080-39d9-11e9-92f0-f402f33fe4fd.jpg)" width="45" title="RxJS" />
+  <img src="https://user-images.githubusercontent.com/10064416/53419310-eb4eb080-39d9-11e9-92f0-f402f33fe4fd.jpg" width="45" title="RxJS" />
   <img src="https://img.icons8.com/color/48/graphql.png" width="45" title="GraphQL" />
 </p>
 
